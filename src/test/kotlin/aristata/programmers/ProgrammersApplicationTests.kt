@@ -11,6 +11,7 @@ class ProgrammersApplicationTests {
 
     @Test
     fun contextLoads() {
+        for(d in )
     }
 
 }
